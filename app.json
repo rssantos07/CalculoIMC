@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "soulheath",
+    "slug": "soulheath",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "soulheath"
+}
